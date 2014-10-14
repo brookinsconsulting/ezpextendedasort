@@ -82,11 +82,11 @@ Parameters
 Usage
 -----
 
-- 1. {def $variable = $arrayOfArrays|extended_asort( array('name'), 2, 'ASC' )}
+- Use Case #1: {def $variable = $arrayOfArrays|extended_asort( array('name'), 2, 'ASC' )}
 
-- 2. {def $variable = $arrayOfArrays|extended_asort( array('name'), 0 )}
+- Use Case #2: {def $variable = $arrayOfArrays|extended_asort( array('name'), 0 )}
 
-- 3. {def $variable = $arrayOfArrays|extended_asort( array('priority'), 1, 'ASC' )}
+- Use Case #3: {def $variable = $arrayOfArrays|extended_asort( array('priority'), 1, 'ASC' )}
 
 Troubleshooting
 ---------------
